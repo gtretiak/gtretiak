@@ -7,6 +7,8 @@ I am currently studying Computer Science at 42 Porto, where I carry out incredib
 * 👩‍🚀 Currently at 42 Porto
 * 🐚 Environment: Shell, Command line, Linux, VM
 * 💻 Languages: C, HTML, CSS
+* ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtretiak&layout=compact)
+
 * 🛠️ Tools: Git, Vim, Bash Scripting, Makefile, gdb, Valgrind
 - 🔭 I’m currently working on Dining Philosophers Problem 
 - 🌱 I’m currently learning threads
