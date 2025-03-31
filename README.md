@@ -7,7 +7,7 @@ I am currently studying Computer Science at 42 Porto, where I carry out incredib
 * 👩‍🚀 Currently at [42 Porto](https://42porto.com)
 * 🐚 Environment: Shell, Command line, Linux, VM
 * 💻 Languages: C, HTML, CSS
-* 🛠️ Tools: Git, Vim, Bash Scripting, Makefile, gdb, Valgrind
+* 🛠️ Tools: ![Git](https://img.shields.io/badge/Git-🟧-blue?logo=git), Vim, Bash Scripting, Makefile, gdb, Valgrind
 - 🔭 I’m currently working on Dining Philosophers Problem 
 - 🌱 I’m currently learning threads
 - ✅ Concepts I've learned:
