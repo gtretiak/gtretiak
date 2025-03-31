@@ -8,13 +8,9 @@ I've made a career switch from the legal field and am currently studying Compute
 ![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Command Line](https://img.shields.io/badge/Command_Line-4EAA25?style=for-the-badge&logo=terminal&logoColor=white)
 ![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-### 💻 Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 🗣️💻 Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF6D00?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML+CSS](https://img.shields.io/badge/HTML%26CSS-FF6D00%201572B6?style=for-the-badge&logo=html5&logo=css3&logoColor=white)
