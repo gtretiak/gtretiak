@@ -14,7 +14,7 @@ I am currently studying Computer Science at 42 Porto, where I carry out incredib
 - Concepts (Arrays, Pointers, Structures, Linked Lists, Algorithms, Recursion)
 - System (FD, Bits, Memory Management, Processes, Pipes)
 - Graphics (MinilibX, X11, RGB)
-- 👯 The last joint project: Recordss.ai
+- 👯 The last joint project: [Recordss.ai](https://recordss.ai)
 * 💬 Happy to work on some fascinating ideas, direct message me!
 * 🇺🇸 🇷🇺 🇵🇹 Contact me with these languages
 - 📫 How to reach me out: george22021988@mail.com
