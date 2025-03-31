@@ -7,12 +7,10 @@ I am currently studying Computer Science at 42 Porto, where I carry out incredib
 * 👩‍🚀 Currently at 42 Porto
 * 🐚 Environment: Shell, Command line, Linux, VM
 * 💻 Languages: C, HTML, CSS
-* ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtretiak&layout=compact)
-
 * 🛠️ Tools: Git, Vim, Bash Scripting, Makefile, gdb, Valgrind
 - 🔭 I’m currently working on Dining Philosophers Problem 
 - 🌱 I’m currently learning threads
-- ✅ Concepts I know:
+- ✅ Concepts I've learned:
 - Concepts (Arrays, Pointers, Structures, Linked Lists, Algorithms, Recursion)
 - System (FD, Bits, Memory Management, Processes, Pipes)
 - Graphics (MinilibX, X11, RGB)
