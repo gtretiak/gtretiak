@@ -13,6 +13,5 @@ I am currently studying Computer Science at 42 Porto, where I carry out incredib
 - 🔭 I’m currently working on Sorting Algorithms 
 - 🌱 I’m currently learning manipulating nodes of linked lists
 - 👯 I’m looking to collaborate on some fascinating projects
-- 🤔 I’m looking for help with job 
 - 📫 How to reach me: george22021988@mail.com
 - 📲 WhatsApp at +351 921754132
