@@ -14,7 +14,7 @@ I am currently studying Computer Science at 42 Porto, where I carry out incredib
 - Concepts (Arrays, Pointers, Structures, Linked Lists, Algorithms, Recursion)
 - System (FD, Bits, Memory Management, Processes, Pipes)
 - Graphics (MinilibX, X11, RGB)
-  ![my text](https://img.shields.io/badge/Badge-Value-Color)
+  ![my text](https://img.shields.io/badge/125/-100-Color)
 
 - 👯 The last joint project: Recordss.ai
 * 💬 Happy to work on some fascinating ideas, direct message me!
