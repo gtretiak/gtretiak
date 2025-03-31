@@ -5,9 +5,9 @@ I am currently studying Computer Science at 42 Porto, where I carry out incredib
 
 * 🗃️ Love to organize things
 * 👩‍🚀 Currently at [42 Porto](https://42porto.com)
-* 🐚 Environment: Shell, Command line, Linux, VM
-* 💻 Languages: C, HTML, CSS
-* 🛠️ Tools: Git, [Vim](https://vim-adventures.com), Bash Scripting, Makefile, gdb, Valgrind
+* 🐚 Environment: ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white), Command line, Linux, VM
+* 💻 Languages: ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5), ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C), CSS
+* 🛠️ Tools: ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C), [Vim](https://vim-adventures.com), Bash Scripting, Makefile, gdb, Valgrind
 - 🔭 I’m currently working on Dining Philosophers Problem 
 - 🌱 I’m currently learning threads
 - ✅ Concepts I've learned:
