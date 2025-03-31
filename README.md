@@ -12,11 +12,19 @@ I've made a career switch from the legal field and am currently studying Compute
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![HTML+CSS](https://img.shields.io/badge/HTML%26CSS-FF6D00%201572B6?style=for-the-badge&logo=html5&logo=css3&logoColor=white)
 
 ### 🛠️ Tools:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), [Vim](https://vim-adventures.com), Bash Scripting, Makefile, gdb, Valgrind
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[Vim](https://vim-adventures.com)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim-adventures.com/)
+![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-003366?style=for-the-badge&logo=cmake&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-FF6F00?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-0077CC?style=for-the-badge&logo=valgrind&logoColor=white)
+![Dev Tools](https://img.shields.io/badge/Tools-Git%20|%20Bash%20|%20Make%20|%20GDB%20|%20Vim-239120?style=for-the-badge)
+
 ### 🔭 I’m currently working on:
 Dining Philosophers Problem 
 ### 🌱 I’m currently learning: 
