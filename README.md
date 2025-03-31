@@ -19,4 +19,4 @@ I am currently studying Computer Science at 42 Porto, where I carry out incredib
 * 🇺🇸 🇷🇺 🇵🇹 Contact me with these languages
 - 📫 How to reach me out: george22021988@mail.com
 - 📲 WhatsApp at +351 921754132
-![image](https://github.com/user-attachments/assets/ad605b8d-07b6-4c96-afbe-ebba75142f5f)
+[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-833AB4?logo=instagram)](https://www.instagram.com/jan_buran)
