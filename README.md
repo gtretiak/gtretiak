@@ -4,7 +4,12 @@ I've made a career switch from the legal field and am currently studying Compute
 
 👩‍🚀 Currently at [42 Porto](https://42porto.com)
 ### 🐚 Environment:
-![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VM](https://img.shields.io/badge/VM-000000?style=for-the-badge&logo=virtualbox&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnome-terminal&logoColor=white) ![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-5C2D91?style=for-the-badge&logo=virtual-machine&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Terminal](https://img.shields.io/badge/Command_Line-4EAA25?style=for-the-badge&logo=terminal&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-5C2D91?style=for-the-badge&logo=virtual-machine&logoColor=white) 
+![Command Line](https://img.shields.io/badge/Command_Line-4EAA25?style=for-the-badge&logo=terminal&logoColor=white)
+
 ### 💻 Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white), ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C), CSS
 ### 🛠️ Tools:
