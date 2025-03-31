@@ -19,4 +19,4 @@ I am currently studying Computer Science at 42 Porto, where I carry out incredib
 * 🇺🇸 🇷🇺 🇵🇹 Contact me with these languages
 - 📫 How to reach me out: george22021988@mail.com
 - 📲 WhatsApp at +351 921754132
-![C](https://img.shields.io/badge/Tool?logo=C)
+![C](https://img.shields.io/badge/name?logo=C)
