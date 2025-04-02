@@ -20,15 +20,11 @@ I've made a career switch from the legal field and am currently studying Compute
 ![Makefile](https://img.shields.io/badge/Makefile-003366?style=for-the-badge&logo=cmake&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-FF6F00?style=for-the-badge&logo=gnu&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-0077CC?style=for-the-badge&logo=valgrind&logoColor=white)
-
-### 🔮 **Powered by**  
+### 🔮 **Powered by**
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="20"> 
-<img src="https://perplexity.ai/favicon.ico" height="20">·
-<img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMm0wIDE4Yy00LjQxMSAwLTgtMy41ODktOC04czMuNTg5LTggOC04IDggMy41ODkgOCA4LTMuNTg5IDgtOCA4WiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" height="20">
-<img src="https://img.shields.io/badge/Manus_AI-6F2DA8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMm0wIDE4Yy00LjQxMSAwLTgtMy41ODktOC04czMuNTg5LTggOC04IDggMy41ODkgOCA4LTMuNTg5IDgtOCA4WiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" height="20">
-<img src="https://github.githubassets.com/favicons/favicon.svg" height="20"> **Copilot**  
-[![AI Tools: ChatGPT + Perplexity + DeepSeek + Manus AI](https://img.shields.io/badge/AI_Tools-ChatGPT%20|%20Perplexity%20|%20DeepSeek%20|%20Manus_AI-6F2DA8?style=for-the-badge&logo=openai&logo=perplexity&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMm0wIDE4Yy00LjQxMSAwLTgtMy41ODktOC04czMuNTg5LTggOC04IDggMy41ODkgOCA4LTMuNTg5IDgtOCA4WiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)](https://www.manus.im)
-[![AI Tools: Manus + ChatGPT + Perplexity + DeepSeek](https://img.shields.io/badge/AI_Tools-Manus_AI%20|%20ChatGPT%20|%20Perplexity%20|%20DeepSeek-6F2DA8?style=for-the-badge&logo=openai&logo=perplexity&logoColor=white)](https://www.manus.im)
+<img src="https://perplexity.ai/favicon.ico" height="20">
+<img src="https://lh-prod-front-pub-static.s3.amazonaws.com/creationplatform/8a23a26da8442c0f05ee49c4164e61f6.png" height="20">
+<img src="https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2025/01/i-0-91268357-deepseek-logo.jpg" height="20">
 
 ### 🔭 I’m currently working on:
 [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
