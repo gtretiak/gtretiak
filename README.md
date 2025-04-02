@@ -21,13 +21,12 @@ I've made a career switch from the legal field and am currently studying Compute
 ![GDB](https://img.shields.io/badge/GDB-FF6F00?style=for-the-badge&logo=gnu&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-0077CC?style=for-the-badge&logo=valgrind&logoColor=white)
 
-![Multi-AI Badge](https://your-image-url-here.svg)
 ### 🔮 **Powered by**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="20"> **ChatGPT** · 
 <img src="https://perplexity.ai/favicon.ico" height="20"> **Perplexity** · 
-<img src="https://mistral.ai/favicon.ico" height="20"> **Mistral** · 
 <img src="https://github.githubassets.com/favicons/favicon.svg" height="20"> **Copilot**  
-
+[![AI Tools: Manus + ChatGPT + Perplexity + DeepSeek](https://img.shields.io/badge/AI_Tools-Manus_AI%20|%20ChatGPT%20|%20Perplexity%20|%20DeepSeek-6F2DA8?style=for-the-badge&logo=openai&logo=perplexity&logoColor=white)](https://www.manus.im)
+[![AI Tools](https://img.shields.io/badge/-Manus_AI%20|%20ChatGPT%20|%20Perplexity%20|%20DeepSeek-6F2DA8?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_CUSTOM_ICON_BASE64)](https://www.manus.im)
 ### 🔭 I’m currently working on:
 [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 ### 🌱 I’m currently learning: 
