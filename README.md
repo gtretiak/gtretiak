@@ -20,6 +20,14 @@ I've made a career switch from the legal field and am currently studying Compute
 ![Makefile](https://img.shields.io/badge/Makefile-003366?style=for-the-badge&logo=cmake&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-FF6F00?style=for-the-badge&logo=gnu&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-0077CC?style=for-the-badge&logo=valgrind&logoColor=white)
+
+![Multi-AI Badge](https://your-image-url-here.svg)
+### 🔮 **Powered by**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="20"> **ChatGPT** · 
+<img src="https://perplexity.ai/favicon.ico" height="20"> **Perplexity** · 
+<img src="https://mistral.ai/favicon.ico" height="20"> **Mistral** · 
+<img src="https://github.githubassets.com/favicons/favicon.svg" height="20"> **Copilot**  
+
 ### 🔭 I’m currently working on:
 [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 ### 🌱 I’m currently learning: 
