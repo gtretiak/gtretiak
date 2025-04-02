@@ -20,7 +20,6 @@ I've made a career switch from the legal field and am currently studying Compute
 ![GDB](https://img.shields.io/badge/GDB-FF6F00?style=for-the-badge&logo=gnu&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-0077CC?style=for-the-badge&logo=valgrind&logoColor=white)
 ### 🔮 AI assistants I have used so far to enhance the coding, debugging and learning process:
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30"> <img src="https://perplexity.ai/favicon.ico" height="30"> <img src="https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw" height="30"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7IEnFaENW_-2lZhwQYkB9T5dUM5aTWmbHRw&s" height="30">
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0F52BA?style=for-the-badge&logoColor=white)
