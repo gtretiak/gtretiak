@@ -13,8 +13,7 @@ I've made a career switch from the legal field and am currently studying Compute
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### 🛠️ Tools:
-[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim-adventures.com/)👆
-
+[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim-adventures.com/)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-003366?style=for-the-badge&logo=cmake&logoColor=white)
