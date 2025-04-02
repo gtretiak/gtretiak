@@ -27,7 +27,7 @@ Threads
 ### ✅ Concepts I've learned:
 - Basics (Arrays, Pointers, Structures, Linked Lists, Algorithms, Recursion)
 - System (FD, Bits, Memory Management, Processes, Pipes)
-- Graphics [MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
+- Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
 ### 👯 The last joint project:
 [Recordss.ai](https://recordss.ai)
 💬 Happy to work on some fascinating ideas, direct message me!
