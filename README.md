@@ -36,5 +36,5 @@ Threads
 ### 🇺🇸 🇷🇺 🇵🇹 Languages I speak:
 English | Russian | Portuguese
 ### How to reach me out 📫 📲 
-[![Curriculum Vitae](https://drive.google.com/file/d/1J8ahaVXDy6HMp43SEXEcjMEIiSqaGz2O/view?usp=sharing)
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white)](https://drive.google.com/file/d/1J8ahaVXDy6HMp43SEXEcjMEIiSqaGz2O/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgii-tretiakov-093252277) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351921754132?text=Oi,%20estou%20disponivel%20para%20entrar%20em%20contato.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jan_buran_?igshid=ZDc4ODBmNjlmNQ==) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:george22021988@gmail.com)
