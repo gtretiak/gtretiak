@@ -34,8 +34,11 @@ Threads
 - Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
 ### 👯 The last joint project:
 [Recordss.ai](https://recordss.ai)
-
 💬 Happy to work together on your fascinating ideas too, direct message me!
+
+### My repositories:
+shell00 - 
+
 ### Languages I speak:
 ![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)
 ![Russian](https://img.shields.io/badge/Русский-D30027?style=for-the-badge&logoColor=white)
