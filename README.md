@@ -33,7 +33,7 @@ Threads
 - System (FD, Bits, Memory Management, Processes, Pipes)
 - Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
 ### 👯 The last joint project:
-([Recordss.ai](https://recordssai.vercel.app)
+[Recordss.ai](https://recordssai.vercel.app)
 
 💬 Happy to work together on your fascinating ideas too, direct message me!
 
