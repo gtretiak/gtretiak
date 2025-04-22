@@ -37,8 +37,8 @@ Threads
 
 💬 Happy to work together on your fascinating ideas too, direct message me!
 
-### My repositories
-#### Click on the links of the projects to see customized explanations for their relevance to practical business needs
+### My repositories:
+##### 👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs
 [Shell00](https://github.com/gtretiak/42School/blob/main/Piscine-2024/shell00) - designed to introduce fundamental Unix/Linux shell commands for navigating command-line environments, manipulating files, understanding file permissions, and working with Git repositories.
 
 ### Languages I speak:
