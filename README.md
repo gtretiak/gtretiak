@@ -40,6 +40,7 @@ Threads
 ### My repositories:
 ##### 👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs
 ###### [Shell00](https://github.com/gtretiak/Shell_00) - designed to introduce fundamental Unix/Linux shell commands for navigating command-line environments, manipulating files, understanding file permissions, and working with Git repositories.
+###### [Shell01](https://github.com/gtretiak/Shell_01) - advanced command-line exercises in information extraction, file searching, directory counting, and special character handling.
 ###### [Fract-ol](https://github.com/gtretiak/C_Fract_ol) - interactive fractal renderer (Mandelbrot, Julia & Multibrot sets).
 ###### [Push_swap](https://github.com/gtretiak/C_Push_swap) - optimized sorting algorithm using stacks.
 ###### [Pipex](https://github.com/gtretiak/C_Pipex) - Unix piping behavior with process control and file descriptor manipulation.
