@@ -38,28 +38,12 @@ Threads
 💬 Happy to work together on your fascinating ideas too, direct message me!
 
 ### My repositories:
-##### 👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs
-###### [Shell00](https://github.com/gtretiak/Shell_00) - designed to introduce fundamental Unix/Linux shell commands for navigating command-line environments, manipulating files, understanding file permissions, and working with Git repositories.
-###### [Shell01](https://github.com/gtretiak/Shell_01) - advanced command-line exercises in information extraction, file searching, directory counting, and special character handling.
-###### [Fract-ol](https://github.com/gtretiak/C_Fract_ol) - interactive fractal renderer (Mandelbrot, Julia & Multibrot sets).
-###### [Push_swap](https://github.com/gtretiak/C_Push_swap) - optimized sorting algorithm using stacks.
-###### [Pipex](https://github.com/gtretiak/C_Pipex) - Unix piping behavior with process control and file descriptor manipulation.
-
-### My repositories:
 👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs
-- [Shell00](https://github.com/gtretiak/Shell_00): Designed to introduce fundamental Unix/Linux shell commands for navigating command-line environments, manipulating files, understanding file permissions, and working with Git repositories.
-- [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in information extraction, file searching, directory counting, and special character handling.
-- [Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets).
-- [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks.
-- [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation.
-
-### My repositories:
-<p><em>👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs</em></p>
-<p><a href="https://github.com/gtretiak/Shell_00"><strong>Shell00</strong></a> – Designed to introduce fundamental Unix/Linux shell commands...</p>
-<p><a href="https://github.com/gtretiak/Shell_01"><strong>Shell01</strong></a> – Advanced command-line exercises in information extraction...</p>
-<p><a href="https://github.com/gtretiak/C_Fract_ol"><strong>Fract-ol</strong></a> – Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets).</p>
-<p><a href="https://github.com/gtretiak/C_Push_swap"><strong>Push_swap</strong></a> – Optimized sorting algorithm using stacks.</p>
-<p><a href="https://github.com/gtretiak/C_Pipex"><strong>Pipex</strong></a> – Unix piping behavior with process control and file descriptor manipulation.</p>
+- [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
+- [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
+- [Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
+- [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
+- [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
 
 ### Languages I speak:
 ![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)
