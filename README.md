@@ -41,6 +41,7 @@ I've made a career switch from the legal field and am currently studying Compute
 ### 👯 The last joint projects:
 - [Recordss.ai](https://recordssai.vercel.app)
 - MiniShell
+  
 💬 Happy to work together on your fascinating ideas too, direct message me!
 
 ### My repositories:
