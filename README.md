@@ -32,6 +32,12 @@ Threads
 - Basics (Arrays, Pointers, Structures, Linked Lists, Algorithms, Recursion)
 - System (FD, Bits, Memory Management, Processes, Pipes)
 - Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
+
+### Coding Platforms profiles:
+- [leetcode](https://leetcode.com/u/gtretiak/)
+- [hackerrank](https://www.hackerrank.com/profile/george22021988)
+- [codeforces](https://codeforces.com/profile/gtretiak)
+  
 ### 👯 The last joint project:
 [Recordss.ai](https://recordssai.vercel.app)
 
