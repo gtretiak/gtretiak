@@ -25,9 +25,9 @@ I've made a career switch from the legal field and am currently studying Compute
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0F52BA?style=for-the-badge&logoColor=white)
 ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)
 ### 🔭 I’m currently working on:
-[Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
-### 🌱 I’m currently learning: 
-Threads
+- [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
+- Minishell
+
 ### ✅ Concepts I've learned:
 - Basics (Arrays, Pointers, Structures, Linked Lists, Algorithms, Recursion)
 - System (FD, Bits, Memory Management, Processes, Pipes)
@@ -38,9 +38,9 @@ Threads
 - [hackerrank](https://www.hackerrank.com/profile/george22021988)
 - [codeforces](https://codeforces.com/profile/gtretiak)
   
-### 👯 The last joint project:
-[Recordss.ai](https://recordssai.vercel.app)
-
+### 👯 The last joint projects:
+- [Recordss.ai](https://recordssai.vercel.app)
+- MiniShell
 💬 Happy to work together on your fascinating ideas too, direct message me!
 
 ### My repositories:
