@@ -1,5 +1,5 @@
 # Hello, World! 👋
-## I'm George, and I love it when things are organized 🗃️ 
+## I'm George 
 I've made a career switch from the legal field and am currently studying Computer Science at 42 Porto. There, I carry out incredible projects and deepen my knowledge in technology. I have been passionate about logic since childhood and consistently seek personal growth. In 2024, I discovered programming, and I have been in love with it ever since.
 
 👩‍🚀 Currently @ [42 Porto](https://42porto.com)
