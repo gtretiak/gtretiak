@@ -38,9 +38,9 @@ I've made a career switch from the legal field and am currently studying Compute
 - [hackerrank](https://www.hackerrank.com/profile/george22021988)
 - [codeforces](https://codeforces.com/profile/gtretiak)
   
-### 👯 The last joint projects:
+### 👯 The team projects:
 - [Recordss.ai](https://recordssai.vercel.app)
-- MiniShell
+- [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
   
 💬 Happy to work together on your fascinating ideas too, direct message me!
 
@@ -48,9 +48,11 @@ I've made a career switch from the legal field and am currently studying Compute
 👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
+- [Libft](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Libft)
 - [Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
 - [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
+- [Minishell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
 
 ### Languages I speak:
 ![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)
