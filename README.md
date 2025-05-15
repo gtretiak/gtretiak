@@ -1,9 +1,9 @@
 # Hello, World! 👋
-## I'm George, a Computer Science explorer, currently developing projects at 42 Porto.
-I've made a career switch from the legal field in 2022. I have been passionate about logic, math and computers since childhood and consistently seek personal growth. So, when I discovered programming, and have been in love with it ever since.
+## I'm George, a Computer Science explorer, currently developing projects at [42 Porto](https://42porto.com).
+👩‍🚀 I've made a career switch from the legal field in 2022. I have been passionate about logic, math and computers since childhood and consistently seek personal growth. So, when I discovered programming, and have been in love with it ever since.
 Now I deepen my knowledge in technology delivering projects solving practical porblems from sorting things to rendering data on a screen.
 
-👩‍🚀 Currently @ [42 Porto](https://42porto.com)
+ 
 ### 🐚 Environment:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)
