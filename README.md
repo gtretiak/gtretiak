@@ -53,7 +53,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
 - [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
-- [Minishell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
+- [Minishell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
 
 ### Languages I speak:
 ![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)
