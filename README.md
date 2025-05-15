@@ -27,7 +27,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)
 ### 🔭 I’m currently working on:
 - [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
-- Minishell
+- [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
 
 ### ✅ Concepts I've learned:
 - Basics (Arrays, Pointers, Structures, Linked Lists, Algorithms, Recursion)
