@@ -55,6 +55,10 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
 - [Minishell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
 
+## 🛠️ Daily Dev Logs
+
+Follow my daily thoughts, achievements, challenges, struggles and insights while coding:  
+👉 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4)
 ### Languages I speak:
 ![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)
 ![Russian](https://img.shields.io/badge/Русский-D30027?style=for-the-badge&logoColor=white)
