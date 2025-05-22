@@ -20,11 +20,11 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ![Makefile](https://img.shields.io/badge/Makefile-003366?style=for-the-badge&logo=cmake&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-FF6F00?style=for-the-badge&logo=gnu&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-0077CC?style=for-the-badge&logo=valgrind&logoColor=white)
-### 🔮 AI assistants I have used so far to enhance the coding, testing, debugging, refactoring and learning process:
+<!-- ### 🔮 AI assistants I have used so far to enhance the coding, testing, debugging, refactoring and learning process:
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0F52BA?style=for-the-badge&logoColor=white)
-![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)
+![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)-->
 ### 🔭 I’m currently working on:
 - [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
