@@ -39,7 +39,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [hackerrank](https://www.hackerrank.com/profile/george22021988)
 - [codeforces](https://codeforces.com/profile/gtretiak)
   
-### 👯 The team projects:
+### 👯 Team projects:
 - [Recordss.ai](https://recordssai.vercel.app)
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
   
