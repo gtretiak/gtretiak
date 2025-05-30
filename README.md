@@ -34,10 +34,8 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - System (FD, Bits, Memory Management, Processes, Pipes)
 - Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
 
-### 🧩 Coding Platforms profiles:
-- [leetcode](https://leetcode.com/u/gtretiak/)
-- [hackerrank](https://www.hackerrank.com/profile/george22021988)
-- [codeforces](https://codeforces.com/profile/gtretiak)
+### 🧩 Coding Platforms profiles: 
+[leetcode](https://leetcode.com/u/gtretiak/)        [hackerrank](https://www.hackerrank.com/profile/george22021988)         [codeforces](https://codeforces.com/profile/gtretiak)
   
 ### 👯 Team projects:
 - [Recordss.ai](https://recordssai.vercel.app)
