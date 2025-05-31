@@ -11,6 +11,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ### 🗣️💻 Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### 🛠️ Tools:
@@ -38,6 +39,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 🧠📈💡[Leetcode](https://leetcode.com/u/gtretiak/)        🎯🌍👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)         ⚔️🏁💻[Codeforces](https://codeforces.com/profile/gtretiak)
   
 ### 👯 Team projects:
+- [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator)
 - [Recordss.ai](https://recordssai.vercel.app)
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
   
