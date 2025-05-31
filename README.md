@@ -48,6 +48,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
 - [Minishell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
+- [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest) - set of programs solving various real-world problems (with practical use-cases examples!)
 ### 🛠️ Daily Dev Logs
 #### Follow my daily thoughts, achievements, challenges, struggles and insights while coding:  
 👉 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4)
