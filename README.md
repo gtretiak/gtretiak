@@ -38,7 +38,11 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
 #### 💬 Happy to work together on your fascinating ideas too! Just direct message me!
-### 📂 My repositories: #### with customized explanations of projects's relevance to practical business needs
+### 📂 My repositories <small>(with customized explanations of projects's relevance to practical business needs)</small>
+### 📂 My repositories<sup>[1]</sup>
+### 📂 My repositories<span style="font-size: 0.8em; color: #666;"> (with customized explanations of projects's relevance to practical business needs)</span>
+### 📂 My repositories^[with customized explanations of projects's relevance to practical business needs]
+[1]: with customized explanations of projects's relevance to practical business needs
 ##### Shell-based:
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
