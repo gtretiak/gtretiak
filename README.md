@@ -33,22 +33,19 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
 ### 🧩 Coding Platforms profiles: 
 💡[Leetcode](https://leetcode.com/u/gtretiak/)        👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)         ⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
-<span style="display:inline-block; margin-right:5px">Text</span>
+ONE<span style="display:inline-block; margin-right:5px">Text</span>
 <span style="display:inline-block; margin-right:15px">gradually</span>
 <span style="display:inline-block; margin-right:25px">spreads</span>
 <span style="display:inline-block">out</span>
-Text&nbsp;&nbsp;gradually&nbsp;&nbsp;&nbsp;spreads&nbsp;&nbsp;&nbsp;&nbsp;out
-Text  gradually  spreads   out
-<span style="letter-spacing:0.5em">Gradual separation</span>
+TWOtext&nbsp;&nbsp;gradually&nbsp;&nbsp;&nbsp;spreads&nbsp;&nbsp;&nbsp;&nbsp;out
+THREEText  gradually  spreads   out
+FOUR<span style="letter-spacing:0.5em">Gradual separation</span>
 ### 🤝 Team projects:
 - [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
 - [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
   
-<sub> *Happy to work together on your fascinating ideas too! Just direct message me!*<sub>
 ### 📂 My repositories:
-
-<sub>*With customized explanations of projects's relevance to practical business needs*👇</sub>
 
 `.sh-based:`
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
