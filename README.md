@@ -39,9 +39,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 🧠📈💡[Leetcode](https://leetcode.com/u/gtretiak/)        🎯🌍👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)         ⚔️🏁💻[Codeforces](https://codeforces.com/profile/gtretiak)
   
 ### 👯 Team projects:
-- [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator)
-- [Recordss.ai](https://recordssai.vercel.app)
-- [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
+- [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): A program that based on provided dimensions generates an ASCII-art rectangle with decorative borders.
+- [Recordss.ai](https://recordssai.vercel.app): AI-powered DNS platform for domain configuration and security, offering vulnerability detection and automated setup.
+- [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
   
 💬 Happy to work together on your fascinating ideas too, direct message me!
 
