@@ -39,6 +39,25 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
 #### 💬 Happy to work together on your fascinating ideas too! Just direct message me!
 ### 📂 My repositories:
+*Italic text* or _Italic text_  
+**Bold text** or __Bold text__  
+***Bold italic*** or ___Bold italic___  
+~~Strikethrough~~  
+`Code font`  
+<span style="color:red">Red text</span>  
+<span style="color:#00ff00">Green text</span>  
+<span style="color:rgb(0,0,255)">Blue text</span>  
+<span style="color:#6a737d">Faded text</span>  
+<span style="opacity:0.7">Semi-transparent</span>  
+<sub>Small and subtle</sub>  
+**_Bold italic_** with <span style="color:purple">purple</span>  
+`Code` in <span style="color:#0366d6;font-style:italic">*blue italics*</span>  
+<span style="color:#d73a49">red text</span>  
+<span style="color:#22863a">Green text</span>  
+<span style="color:#0366d6">blue text</span>  
+<span style="color:#6a737d">faded text</span>  
+<span style="color:#24292e">default text</span>  
+
 ##### Shell-based:
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
