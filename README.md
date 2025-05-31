@@ -1,6 +1,6 @@
-# Hello, World! 👋 I'm George, a Computer Science explorer. 
+# Hello, World! 👋 I'm George, a Computer Science explorer 👩‍🚀 
 ## Currently developing projects at [42 Porto](https://42porto.com).
-👩‍🚀 I've made a career switch from the legal field in 2022. I have been passionate about logic, math and computers since childhood and consistently seek personal growth. So, when I discovered programming, and have been in love with it ever since.
+I've made a career switch from the legal field in 2022. I have been passionate about logic, math and computers since childhood and consistently seek personal growth. So, when I discovered programming, and have been in love with it ever since.
 Now I deepen my knowledge in technology delivering projects solving practical porblems from sorting things to rendering data on a screen.
 ### 🐚 Environment:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -32,13 +32,20 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - System (FD, Bits, Memory Management, Processes, Pipes)
 - Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
 ### 🧩 Coding Platforms profiles: 
-🧠📈💡[Leetcode](https://leetcode.com/u/gtretiak/)        🎯🌍👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)         ⚔️🏁💻[Codeforces](https://codeforces.com/profile/gtretiak)
-### 👯 Team projects:
+💡[Leetcode](https://leetcode.com/u/gtretiak/)        👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)         ⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
+<span style="display:inline-block; margin-right:5px">Text</span>
+<span style="display:inline-block; margin-right:15px">gradually</span>
+<span style="display:inline-block; margin-right:25px">spreads</span>
+<span style="display:inline-block">out</span>
+Text&nbsp;&nbsp;gradually&nbsp;&nbsp;&nbsp;spreads&nbsp;&nbsp;&nbsp;&nbsp;out
+Text  gradually  spreads   out
+<span style="letter-spacing:0.5em">Gradual separation</span>
+### 🤝 Team projects:
 - [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
 - [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
   
-<sub>💬 *Happy to work together on your fascinating ideas too! Just direct message me!*<sub>
+<sub> *Happy to work together on your fascinating ideas too! Just direct message me!*<sub>
 ### 📂 My repositories:
 
 <sub>*With customized explanations of projects's relevance to practical business needs*👇</sub>
@@ -57,7 +64,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
   
 `.cpp-based:`
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
-### 🛠️ Daily Dev Logs
+### 💬 Daily Dev Logs
 <sub>*Follow my daily thoughts, achievements, challenges, struggles and insights while coding*<sub>:
 
 👉 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4)
