@@ -32,14 +32,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - System (FD, Bits, Memory Management, Processes, Pipes)
 - Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
 ### 🧩 Coding Platforms profiles: 
-💡[Leetcode](https://leetcode.com/u/gtretiak/)        👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)         ⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
-ONE<span style="display:inline-block; margin-right:5px">Text</span>
-<span style="display:inline-block; margin-right:15px">gradually</span>
-<span style="display:inline-block; margin-right:25px">spreads</span>
-<span style="display:inline-block">out</span>
-TWOtext&nbsp;&nbsp;gradually&nbsp;&nbsp;&nbsp;spreads&nbsp;&nbsp;&nbsp;&nbsp;out
-THREEText  gradually  spreads   out
-FOUR<span style="letter-spacing:0.5em">Gradual separation</span>
+💡[Leetcode](https://leetcode.com/u/gtretiak/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
 ### 🤝 Team projects:
 - [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
 - [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
@@ -61,9 +54,7 @@ FOUR<span style="letter-spacing:0.5em">Gradual separation</span>
   
 `.cpp-based:`
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
-### 💬 Daily Dev Logs
-<sub>*Follow my daily thoughts, achievements, challenges, struggles and insights while coding*<sub>:
-
+### 💬 Daily Dev Logs. *Follow my daily thoughts, achievements, challenges, struggles and insights while coding*👇
 👉 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4)
 ### Languages I speak:
 ![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)
