@@ -43,10 +43,10 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
   
-💬 Happy to work together on your fascinating ideas too, direct message me!
+#### 💬 Happy to work together on your fascinating ideas too, direct message me!
 
-### My repositories:
-👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs
+### 📂 My repositories:
+#### 👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
 - [Libft](https://github.com/gtretiak/C_libft): Custom C Library
@@ -56,7 +56,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Minishell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
 
 ### 🛠️ Daily Dev Logs
-Follow my daily thoughts, achievements, challenges, struggles and insights while coding:  
+#### Follow my daily thoughts, achievements, challenges, struggles and insights while coding:  
 👉 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4)
 
 ### Languages I speak:
