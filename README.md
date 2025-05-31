@@ -42,6 +42,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 #### 👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
+- [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
 - [Libft](https://github.com/gtretiak/C_libft): Custom C Library
 - [Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
 - [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
