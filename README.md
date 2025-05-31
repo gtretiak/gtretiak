@@ -2,8 +2,6 @@
 ## Currently developing projects at [42 Porto](https://42porto.com).
 👩‍🚀 I've made a career switch from the legal field in 2022. I have been passionate about logic, math and computers since childhood and consistently seek personal growth. So, when I discovered programming, and have been in love with it ever since.
 Now I deepen my knowledge in technology delivering projects solving practical porblems from sorting things to rendering data on a screen.
-
- 
 ### 🐚 Environment:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -29,22 +27,17 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ### 🔭 I’m currently working on:
 - [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
-
 ### ✅ Concepts I've learned:
 - Basics (Arrays, Pointers, Structures, Linked Lists, Algorithms, Recursion)
 - System (FD, Bits, Memory Management, Processes, Pipes)
 - Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
-
 ### 🧩 Coding Platforms profiles: 
 🧠📈💡[Leetcode](https://leetcode.com/u/gtretiak/)        🎯🌍👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)         ⚔️🏁💻[Codeforces](https://codeforces.com/profile/gtretiak)
-  
 ### 👯 Team projects:
 - [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
 - [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
 - [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
-  
-#### 💬 Happy to work together on your fascinating ideas too, direct message me!
-
+#### 💬 Happy to work together on your fascinating ideas too! Just direct message me!
 ### 📂 My repositories:
 #### 👇 Click on the links of the projects to see customized explanations for their relevance to practical business needs
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
@@ -54,11 +47,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
 - [Minishell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
-
 ### 🛠️ Daily Dev Logs
 #### Follow my daily thoughts, achievements, challenges, struggles and insights while coding:  
 👉 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4)
-
 ### Languages I speak:
 ![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)
 ![Russian](https://img.shields.io/badge/Русский-D30027?style=for-the-badge&logoColor=white)
