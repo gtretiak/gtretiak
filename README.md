@@ -29,42 +29,44 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ### ✅ Concepts I've learned:
 <details>
   <summary>📦 Basics (click to expand)</summary>
-
-- Arrays
-- Pointers
-- Structures
-- Linked Lists
-- Algorithms
-- Recursion
-
+- Arrays and Pointers
+- Structures and Linked Lists
+- Command-line parsing, tokenization, and syntax trees
 </details>
-#### Basics:
-- Arrays, Pointers, Structures, Linked Lists
-- Command-line parsing, tokenization, syntax trees
-#### Algorithms & Problem Solving:
+<details>
+  <summary>🧩 Algorithms & Problem Solving (click to expand)</summary>
 - Dynamic Programming
 - Geometric Algorithms
 - Sorting/Searching logic
 - Recursive/Iterative approaches
 - Optimization Strategies
-#### Object-Oriented Programming:
+</details>
+<details>
+  <summary>👨‍👦 Object-Oriented Programming (click to expand)</summary>
 - C++ fundamentals, Inheritance, Polymorphism, Encapsulation
 - Standard Template Library (STL): Vectors, Stacks, Queues
 - Exception Handling in C++
-#### System:
+</details>
+<details>
+  <summary>⚙️ System (click to expand)</summary>
 - File Descriptors (FD), Bits, Memory Management, Processes, Pipes and Redirection
 - Unix Signals and Signal Handling
 - Environment Variable Management
 - CLI Design and Command Execution
 - Shell Scripting Logic in C
-#### Graphics:
+</details>
+  <summary>🖥️ Graphics (click to expand)</summary>
 - [MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB
 - Custom terminal interface rendering
 - Low-level terminal control for command history and cursor navigation (readline-like behavior)
 - Console-based user interface design
-#### Machine Learning & Predictive Analytics
+</details>
+</details>
+  <summary>🤖 Machine Learning & Predictive Analytics (click to expand)</summary>
 - Data preprocessing
 - Evaluation metrics: AUC, LIFT, RESPONSE
+</details>
+
 ### 🧩 Coding Platforms profiles: 
 💡[Leetcode](https://leetcode.com/u/gtretiak/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
 ### 🤝 Team projects:
