@@ -26,17 +26,40 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)-->
 ### 🔭 I’m currently working on:
 - [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
-- [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell)
 ### ✅ Concepts I've learned:
-- Basics (Arrays, Pointers, Structures, Linked Lists, Algorithms, Recursion)
-- System (FD, Bits, Memory Management, Processes, Pipes)
-- Graphics ([MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB)
+#### Basics:
+- Arrays, Pointers, Structures, Linked Lists
+- Command-line parsing, tokenization, syntax trees
+#### Algorithms & Problem Solving:
+- Dynamic Programming
+- Geometric Algorithms
+- Sorting/Searching logic
+- Recursive/Iterative approaches
+- Optimization Strategies
+#### Object-Oriented Programming:
+- C++ fundamentals, Inheritance, Polymorphism, Encapsulation
+- Standard Template Library (STL): Vectors, Stacks, Queues
+- Exception Handling in C++
+#### System:
+- File Descriptors (FD), Bits, Memory Management, Processes, Pipes and Redirection
+- Unix Signals and Signal Handling
+- Environment Variable Management
+- CLI Design and Command Execution
+- Shell Scripting Logic in C
+#### Graphics:
+- [MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB
+- Custom terminal interface rendering
+- Low-level terminal control for command history and cursor navigation (readline-like behavior)
+- Console-based user interface design
+#### Machine Learning & Predictive Analytics
+- Data preprocessing
+- Evaluation metrics: AUC, LIFT, RESPONSE
 ### 🧩 Coding Platforms profiles: 
 💡[Leetcode](https://leetcode.com/u/gtretiak/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
 ### 🤝 Team projects:
 - [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
 - [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
-- [MiniShell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
+- [MiniShell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
   
 ### 📂 My repositories *+ practical use cases for real-world business needs*👇
 
@@ -50,7 +73,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
 - [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
-- [Minishell](https://github.com/gtretiak/Work-In-Progress-Projects/tree/main/C_Minishell): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
+- [Minishell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
   
 `.cpp-based:`
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
