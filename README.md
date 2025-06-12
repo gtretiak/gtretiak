@@ -27,6 +27,17 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ### 🔭 I’m currently working on:
 - [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 ### ✅ Concepts I've learned:
+<details>
+  <summary>📦 Basics (click to expand)</summary>
+
+- Arrays
+- Pointers
+- Structures
+- Linked Lists
+- Algorithms
+- Recursion
+
+</details>
 #### Basics:
 - Arrays, Pointers, Structures, Linked Lists
 - Command-line parsing, tokenization, syntax trees
