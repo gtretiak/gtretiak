@@ -78,7 +78,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ### 🧩 Coding Platforms profiles: 
 💡[Leetcode](https://leetcode.com/u/gtretiak/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
 ### 🤝 Team projects:
-- [MiniShell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
+- [Minishell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
 - [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
 - [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
   
@@ -86,7 +86,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 
 `.sh-based:`
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
-- [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
+- [Shell00](https://github.com/gtretiak/Shell_00): Introduction to core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
 
 `.c-based:`
 - [Minishell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
