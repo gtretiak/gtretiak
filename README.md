@@ -29,12 +29,14 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ### ✅ Concepts I've learned:
 <details>
   <summary>📦 Basics (click to expand)</summary>
+  
 - Arrays and Pointers
 - Structures and Linked Lists
 - Command-line parsing, tokenization, and syntax trees
 </details>
 <details>
   <summary>🧩 Algorithms & Problem Solving (click to expand)</summary>
+  
 - Dynamic Programming
 - Geometric Algorithms
 - Sorting/Searching logic
@@ -43,12 +45,14 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 </details>
 <details>
   <summary>👨‍👦 Object-Oriented Programming (click to expand)</summary>
+  
 - C++ fundamentals, Inheritance, Polymorphism, Encapsulation
 - Standard Template Library (STL): Vectors, Stacks, Queues
 - Exception Handling in C++
 </details>
 <details>
   <summary>⚙️ System (click to expand)</summary>
+  
 - File Descriptors (FD), Bits, Memory Management, Processes, Pipes and Redirection
 - Unix Signals and Signal Handling
 - Environment Variable Management
@@ -56,6 +60,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Shell Scripting Logic in C
 </details>
   <summary>🖥️ Graphics (click to expand)</summary>
+  
 - [MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB
 - Custom terminal interface rendering
 - Low-level terminal control for command history and cursor navigation (readline-like behavior)
@@ -63,6 +68,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 </details>
 </details>
   <summary>🤖 Machine Learning & Predictive Analytics (click to expand)</summary>
+  
 - Data preprocessing
 - Evaluation metrics: AUC, LIFT, RESPONSE
 </details>
