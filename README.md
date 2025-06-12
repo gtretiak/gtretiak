@@ -78,17 +78,19 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ### 🧩 Coding Platforms profiles: 
 💡[Leetcode](https://leetcode.com/u/gtretiak/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
 ### 🤝 Team projects:
-- [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
-- [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
 - [MiniShell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
+- [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
+- [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
   
 ### 📂 My repositories *+ practical use cases for real-world business needs*👇
 
 `.sh-based:`
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduces core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
+
 `.c-based:`
 - [Minishell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
+- [C_hackerrank_contest](https://github.com/gtretiak/C_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
 - [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
