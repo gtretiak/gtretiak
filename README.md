@@ -94,6 +94,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 `.c-based:`
 - [Minishell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
 - [C_hackerrank_contest](https://github.com/gtretiak/C_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
+- [C_code_forces_contest](https://github.com/gtretiak/C_code_forces): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
 - [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
