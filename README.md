@@ -98,6 +98,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
 - [Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
+- [C_mlx_practice](https://github.com/gtretiak/C_mlx_practice): MiniLibX-related exercises for rendering.
 - [Libft](https://github.com/gtretiak/C_libft): Custom C Library
 - [Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
   
