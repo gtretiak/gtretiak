@@ -88,6 +88,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduction to core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
 
+`.Linux command-line-based:`
+- [Bandit](https://github.com/gtretiak/Overthewire_wargames/tree/main): Bandit - Linux basics, command line, and fundamental security concepts
+   
 `.c-based:`
 - [Minishell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
 - [C_hackerrank_contest](https://github.com/gtretiak/C_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
