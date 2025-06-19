@@ -11,11 +11,6 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Java-OpenJDK-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-<img src="https://img.shields.io/badge/Java-Expert-%23ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black" alt="Java Expert"/>
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Java](https://custom-icon-badges.demolab.com/badge/Java-17-007396.svg?logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3D%20Ready-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### 🛠️ Tools:
