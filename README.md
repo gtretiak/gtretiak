@@ -106,6 +106,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 `.cpp-based:`
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [CPP_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
+
+`.java-based:`
+- [Caesar_Cipher_-_Arithmetic_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator):
 ### 💬 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4). 👈 *Follow my daily achievements, challenges, and insights while coding.*
 ### Languages I speak:
 ![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)
