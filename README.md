@@ -108,7 +108,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [CPP_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 
 `.java-based:`
-- [Caesar_Cipher_-_Arithmetic_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console application for text encryption/decryption and mathematical expression evaluation.
+- [Caesar_Cipher_-_Arithmetic_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console app for text encryption/decryption & mathematical expression evaluation.
 
 ### 💬 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4). 👈 *Follow my daily achievements, challenges, and insights while coding.*
 ### Languages I speak:
