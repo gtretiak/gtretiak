@@ -25,8 +25,6 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0F52BA?style=for-the-badge&logoColor=white)
 ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)-->
-### 🔭 I’m currently working on:
-- [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 ### ✅ Concepts I've learned:
 <details>
   <summary>📦 Basics (click to expand)</summary>
@@ -34,6 +32,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Arrays and Pointers
 - Structures and Linked Lists
 - Command-line parsing, tokenization, and syntax trees
+- Time handling and millisecond precision timing
 </details>
 <details>
   <summary>🧩 Algorithms & Problem Solving (click to expand)</summary>
@@ -43,6 +42,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Sorting/Searching logic
 - Recursive/Iterative approaches
 - Optimization Strategies
+- Classic synchronization problems (Dining Philosophers)
+- Deadlock prevention and avoidance algorithms
+- Resource allocation and scheduling strategies
 </details>
 <details>
   <summary>👨‍👦 Object-Oriented Programming (click to expand)</summary>
@@ -59,6 +61,17 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Environment Variable Management
 - CLI Design and Command Execution
 - Shell Scripting Logic in C
+</details>
+<details>
+  <summary>🧵 Concurrent Programming (click to expand)</summary>
+
+- POSIX Threads (pthreads): creation, joining, and detachment
+- Mutex synchronization and critical sections
+- Process vs Thread management
+- Race condition detection and prevention
+- Thread-safe programming practices
+- Timing-sensitive concurrent applications
+- Resource sharing and contention handling
 </details>
 <details>
   <summary>🖥️ Graphics (click to expand)</summary>
@@ -93,6 +106,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Bandit](https://github.com/gtretiak/Overthewire_wargames/tree/main): Bandit - Linux basics, command line, and fundamental security concepts
    
 `.c-based:`
+- [C_Philosophers](https://github.com/gtretiak/C_Philosophers): Simulating the [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes to prevent deadlock and starvation.
 - [C_Minishell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set
 - [C_hackerrank_contest](https://github.com/gtretiak/C_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [C_code_forces_contest](https://github.com/gtretiak/C_code_forces): Set of programs solving various real-world problems (with practical use-cases examples!)
