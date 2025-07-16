@@ -36,7 +36,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Arrays and Pointers
 - Structures and Linked Lists
 - Command-line parsing, tokenization, and syntax trees
+- Arithmetic expression parsing and evaluation
 - Time handling and millisecond precision timing
+- Encoding/Decoding
 </details>
 <details>
   <summary>🧩 Algorithms & Problem Solving (click to expand)</summary>
@@ -60,7 +62,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 <details>
   <summary>⚙️ System (click to expand)</summary>
   
-- File Descriptors (FD), Bits, Memory Management, Processes, Pipes and Redirection
+- File Descriptors (FD), Bits, Memory Management, Processes, Execution, Pipes and Redirection
 - Unix Signals and Signal Handling
 - Environment Variable Management
 - CLI Design and Command Execution
