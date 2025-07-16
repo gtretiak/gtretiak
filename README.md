@@ -95,13 +95,13 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 
 ### 📂 My repositories *+ practical use cases for real-world business needs*👇
 
-`.sh-based:`
-- [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
-- [Shell00](https://github.com/gtretiak/Shell_00): Introduction to core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
+`.java-based:`
+- [Java_Caesar_Cipher_+_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console app for text encryption/decryption & mathematical expression evaluation.
 
-`.Linux command-line-based:`
-- [Bandit](https://github.com/gtretiak/Overthewire_wargames/tree/main): Bandit - Linux basics, command line, and fundamental security concepts
-   
+`.cpp-based:`
+- [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
+- [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
+
 `.c-based:`
 - [C_Philosophers](https://github.com/gtretiak/C_Philosophers): Simulating the [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes to prevent deadlock and starvation.
 - [C_Minishell](https://github.com/gtretiak/C_Minishell/tree/main) [🤝 Team project]: Custom implementation of a basic shell, similar to bash, but with a reduced feature set
@@ -115,12 +115,12 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [C_Libft](https://github.com/gtretiak/C_libft): Custom C Library
 - [C_Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator) [🤝 Team project]: ASCII-art rectangle generation based on provided dimensions
   
-`.cpp-based:`
-- [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
-- [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
+`.Linux command-line-based:`
+- [Bandit](https://github.com/gtretiak/Overthewire_wargames/tree/main): Bandit - Linux basics, command line, and fundamental security concepts
 
-`.java-based:`
-- [Java_Caesar_Cipher_+_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console app for text encryption/decryption & mathematical expression evaluation.
+`.sh-based:`
+- [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
+- [Shell00](https://github.com/gtretiak/Shell_00): Introduction to core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
 
 ### 💬 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4). 👈 *Follow my daily achievements, challenges, and insights while coding.*
 ### 🧩 Coding Platforms profiles: 
