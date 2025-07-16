@@ -8,8 +8,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ![Command Line](https://img.shields.io/badge/Command_Line-4EAA25?style=for-the-badge&logo=terminal&logoColor=white)
 ![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ### 🗣️💻 Languages:
-#### Main language:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+#### Main language: ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 #### Familiar with:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
