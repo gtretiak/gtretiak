@@ -5,6 +5,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ### 🐚 Environment:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
 ![Command Line](https://img.shields.io/badge/Command_Line-4EAA25?style=for-the-badge&logo=terminal&logoColor=white)
 ![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ### 🗣️💻 Languages:
