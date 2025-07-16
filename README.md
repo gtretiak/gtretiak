@@ -93,10 +93,6 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Evaluation metrics: AUC, LIFT, RESPONSE
 </details>
 
-
-- [C_Minishell](https://github.com/gtretiak/C_Minishell/tree/main): Custom implementation of a basic shell, similar to bash, but with a reduced feature set.
-- [Recordss.ai](https://recordssai.vercel.app): AI-powered platform for domain configuration and security with vulnerability detection and automated setup.
-- [C_Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): ASCII-art rectangle generation based on provided dimensions.
 ### 📂 My repositories *+ practical use cases for real-world business needs*👇
 
 `.sh-based:`
@@ -108,7 +104,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
    
 `.c-based:`
 - [C_Philosophers](https://github.com/gtretiak/C_Philosophers): Simulating the [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes to prevent deadlock and starvation.
-- [C_Minishell](https://github.com/gtretiak/C_Minishell/tree/main) 🤝 Team project: Custom implementation of a basic shell, similar to bash, but with a reduced feature set
+- [C_Minishell](https://github.com/gtretiak/C_Minishell/tree/main) [🤝 Team project]: Custom implementation of a basic shell, similar to bash, but with a reduced feature set
 - [C_hackerrank_contest](https://github.com/gtretiak/C_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [C_code_forces_contest](https://github.com/gtretiak/C_code_forces): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [C_leetcode_contest](https://github.com/gtretiak/C_leetcode_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
@@ -117,7 +113,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [C_Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
 - [C_mlx_practice](https://github.com/gtretiak/C_mlx_practice): MiniLibX-related exercises for rendering.
 - [C_Libft](https://github.com/gtretiak/C_libft): Custom C Library
-- [C_Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator): 🤝 Team project! ASCII-art rectangle generation based on provided dimensions
+- [C_Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator) [🤝 Team project]: ASCII-art rectangle generation based on provided dimensions
   
 `.cpp-based:`
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
