@@ -119,6 +119,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [C_ft_printf](https://github.com/gtretiak/C_ft_printf): Custom implementation of the standard C `printf()` function — variadic, formatted output in your own library.
 - [C_Libft](https://github.com/gtretiak/C_libft): Custom C Library
 - [C_Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator) **[🤝 Team project]:** ASCII-art rectangle generation based on provided dimensions
+- [C_Intro](https://github.com/gtretiak/C_Introduction): Very first approaches to C
   
 `.Linux command-line-based:`
 - [Bandit](https://github.com/gtretiak/Overthewire_wargames/tree/main): Bandit - Linux basics, command line, and fundamental security concepts
