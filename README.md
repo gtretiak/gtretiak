@@ -35,7 +35,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
   
 - Arrays and Pointers
 - Structures and Linked Lists
-- Command-line parsing, tokenization, and syntax trees
+- Variadic functions
+- Command-line and format string parsing
+- Tokenization and syntax trees
 - Arithmetic expression parsing and evaluation
 - Time handling and millisecond precision timing
 - Encoding/Decoding
@@ -114,6 +116,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [C_Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [C_Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
 - [C_mlx_practice](https://github.com/gtretiak/C_mlx_practice): MiniLibX-related exercises for rendering.
+- [C_ft_printf](https://github.com/gtretiak/C_ft_printf): Custom implementation of the standard C `printf()` function — variadic, formatted output in your own library.
 - [C_Libft](https://github.com/gtretiak/C_libft): Custom C Library
 - [C_Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator) **[🤝 Team project]:** ASCII-art rectangle generation based on provided dimensions
   
