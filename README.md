@@ -104,6 +104,8 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 
+<u>Underlined Text</u>
+
 `.c-based:`
 - [C_Philosophers](https://github.com/gtretiak/C_Philosophers): Simulating the [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes to prevent deadlock and starvation.
 - [C_Minishell](https://github.com/gtretiak/C_Minishell/tree/main) <u>[🤝 Team project]:</u> Custom implementation of a basic shell, similar to bash, but with a reduced feature set
