@@ -29,6 +29,8 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+
 ### ✅ Concepts I've learned:
 <details>
   <summary>📦 Basics (click to expand)</summary>
@@ -98,6 +100,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 </details>
 
 ### 📂 My repositories *+ practical use cases for real-world business needs*👇
+
+`.py-based:`
+- [Py_contest](https://github.com/gtretiak/Py_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 
 `.java-based:`
 - [Java_Caesar_Cipher_+_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console app for text encryption/decryption & mathematical expression evaluation.
