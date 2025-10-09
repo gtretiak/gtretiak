@@ -119,6 +119,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [C_code_forces_contest](https://github.com/gtretiak/C_code_forces): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [C_leetcode_contest](https://github.com/gtretiak/C_leetcode_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [C_Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
+- [C_Processes_practice](https://github.com/gtretiak/C_Processes): Unix-process-related exercises to understand processes, pipes, etc.
 - [C_Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
 - [C_Fract-ol](https://github.com/gtretiak/C_Fract_ol): Interactive fractal renderer (Mandelbrot, Julia & Multibrot sets)
 - [C_mlx_practice](https://github.com/gtretiak/C_mlx_practice): MiniLibX-related exercises for rendering.
