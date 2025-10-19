@@ -74,6 +74,16 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Shell Scripting Logic in C
 </details>
 <details>
+  <summary>🌍 Networking (click to expand)</summary>
+  
+- TCP/IP, MAC, Routing
+- Subnetting and calculating usable IPs, host ranges, and subnet counts by converting between CIDR and decimal notation, using subnet masks and IP octets
+- data → segment → packet → frame; encapsulation to decapsulation
+- reserved and special IP ranges
+- DMZ, NAT, redundancy concepts, LAN/WAN architecture patterns, Access/Distribution/Core layers, Spine-Leaf topologies
+- Fiber vs Ethernet cables, and the beauty of PoE
+</details>
+<details>
   <summary>🧵 Concurrent Programming (click to expand)</summary>
 
 - POSIX Threads (pthreads): creation, joining, and detachment
