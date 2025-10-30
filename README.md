@@ -44,6 +44,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Arithmetic expression parsing and evaluation
 - Time handling and millisecond precision timing
 - Encoding/Decoding
+- Union-based polymorphic data structures
+- Dynamic memory reallocation strategies
+- Escape sequence handling in string parsing
 </details>
 <details>
   <summary>🧩 Algorithms & Problem Solving (click to expand)</summary>
@@ -56,6 +59,8 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Classic synchronization problems (Dining Philosophers)
 - Deadlock prevention and avoidance algorithms
 - Resource allocation and scheduling strategies
+- Tree traversal and evaluation (post-order)
+- JSON serialization and deserialization
 </details>
 <details>
   <summary>👨‍👦 Object-Oriented Programming (click to expand)</summary>
@@ -72,6 +77,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Environment Variable Management
 - CLI Design and Command Execution
 - Shell Scripting Logic in C
+- Process status analysis (WIFEXITED, WIFSIGNALED, WTERMSIG)
+- Timeout implementation using alarm() signals
+- Process isolation and sandboxing techniques
 </details>
 <details>
   <summary>🌍 Networking (click to expand)</summary>
