@@ -131,7 +131,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 
 `.c-based:`
-- [C_Cub3D](https://github.com/gtretiak/C_Cub3D) **[🤝 Team project]:** 3D first-person maze renderer using raycasting techniques, inspired by Wolfenstein 3D, built with C and MinilibX.
+- [C_Cub3D](https://github.com/gtretiak/C_Cub3D) **[🤝 Team project]:** 3D FPS maze renderer using raycasting techniques, inspired by Wolfenstein 3D, built with C and MinilibX.
 - [C_Shell_related_utils](https://github.com/gtretiak/C_Shell_related_utils): Unix-like microshells (sandboxed testing, expression parser/evaluator, and json interpreter + pipes, signals) 
 - [C_Philosophers](https://github.com/gtretiak/C_Philosophers): Simulating the [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes to prevent deadlock and starvation.
 - [C_Minishell](https://github.com/gtretiak/C_Minishell/tree/main) **[🤝 Team project]:** Custom implementation of a basic shell, similar to bash, but with a reduced feature set
