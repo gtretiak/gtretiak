@@ -47,6 +47,8 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Union-based polymorphic data structures
 - Dynamic memory reallocation strategies
 - Escape sequence handling in string parsing
+- Namespaces and Symbol Resolution
+- Static Storage Duration and Linkage
 </details>
 <details>
   <summary>🧩 Algorithms & Problem Solving (click to expand)</summary>
@@ -65,9 +67,17 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 <details>
   <summary>👨‍👦 Object-Oriented Programming (click to expand)</summary>
   
+- Orthodox Canonical Form (Rule of Three)
 - C++ fundamentals, Inheritance, Polymorphism, Encapsulation
+- Dynamic Polymorphism and Virtual Dispatch
+- Abstract Base Classes and Interfaces
+- Multiple Inheritance and Diamond Problem
+- Deep vs Shallow Copy Semantics
+- Operator Overloading and Ad‑hoc Polymorphism
+- Initialization Lists and Object Lifetime Semantics
+- Const‑Correctness in Member Functions
 - Standard Template Library (STL): Vectors, Stacks, Queues
-- Exception Handling in C++
+- Exception Handling in C++, Exception Safety and RAII
 </details>
 <details>
   <summary>⚙️ System (click to expand)</summary>
@@ -80,6 +90,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - Process status analysis (WIFEXITED, WIFSIGNALED, WTERMSIG)
 - Timeout implementation using alarm() signals
 - Process isolation and sandboxing techniques
+- Heap vs Stack Object Lifetime
 </details>
 <details>
   <summary>🌍 Networking (click to expand)</summary>
@@ -127,6 +138,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Java_Caesar_Cipher_+_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console app for text encryption/decryption & mathematical expression evaluation.
 
 `.cpp-based:`
+- [Cpp modules](https://github.com/gtretiak/WIP_CPP_Modules): Set of programs covering object‑oriented design, memory management, polymorphism, operator overloading, abstract interfaces, inheritance hierarchies, exceptions, and core language mechanics
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 
