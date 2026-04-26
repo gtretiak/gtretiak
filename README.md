@@ -139,7 +139,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [Java_Caesar_Cipher_+_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console app for text encryption/decryption & mathematical expression evaluation.
 
 `.cpp-based:`
-- [Cpp modules](https://github.com/gtretiak/WIP_CPP_Modules): Programs covering OOP, polymorphism, overloading, abstract interfaces, inheritance, exceptions
+- [Cpp modules](https://github.com/gtretiak/WIP_CPP_Modules): Programs covering OOP, polymorphism, overloading, abstract interfaces, inheritance, virtual dispatch, exceptions
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 - [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 
