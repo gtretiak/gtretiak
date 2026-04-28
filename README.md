@@ -20,10 +20,10 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0F52BA?style=for-the-badge&logoColor=white)
 ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)-->
 ### 🗣️💻 Languages:
-#### Main language:
+#### Main Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-#### Familiar with:
+#### Basic Knowledge:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
 
