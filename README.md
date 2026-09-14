@@ -7,6 +7,7 @@ Now I deepen my knowledge in technology delivering projects solving practical pr
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
 ![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ### 🛠️ Tools:
 [![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim-adventures.com/)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -23,6 +24,9 @@ Now I deepen my knowledge in technology delivering projects solving practical pr
 #### Main Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
 #### Basic Knowledge:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -30,7 +34,6 @@ Now I deepen my knowledge in technology delivering projects solving practical pr
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 
 ### ✅ Concepts I've learned:
@@ -122,18 +125,33 @@ Now I deepen my knowledge in technology delivering projects solving practical pr
 - Low-level terminal control for command history and cursor navigation (readline-like behavior)
 - Console-based user interface design
 </details>
-
 <details>
   <summary>🤖 Machine Learning & Predictive Analytics (click to expand)</summary>
   
 - Data preprocessing
 - Evaluation metrics: AUC, LIFT, RESPONSE
 </details>
+<details>
+  <summary>⚛️ Frontend Development & React (click to expand)</summary>
+  
+- Component-based architecture and composition
+- React Hooks (useState, useEffect, custom hooks)
+- Client vs Server state, and state managers (Zustand)
+- Virtual DOM and Fiber reconciliation, re-render behavior
+- Rendering anti-patterns: unstable keys, unmemoized callbacks/objects, unnecessary re-renders
+- Controlled forms and client-side validation (React Hook Form + Zod)
+- Client-side routing (React Router)
+- Async data fetching, loading and error-state handling
+- Type-safe domain modeling with TypeScript in a React app
+- Debounced search/filtering on large lists
+- Vite tooling and modern bundler configuration
+- ESLint/Prettier setup for React + TypeScript projects
+</details>
 
 ### 📂 My repositories *+ practical use cases for real-world business needs*👇
 
 `.tsx-based:`
-- [React_Task_board](https://github.com/gtretiak/React_taskBoard): React/Type Script task board SPA with authentication and task CRUD, built during the DSR JS Bootcamp.
+- [React_Task_board](https://github.com/gtretiak/React_taskBoard): React/TypeScript task board SPA with authentication and task CRUD, built during the DSR JS Bootcamp.
 
 `.py-based:`
 - [Py_contest](https://github.com/gtretiak/Py_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
