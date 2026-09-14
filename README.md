@@ -132,6 +132,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 
 ### 📂 My repositories *+ practical use cases for real-world business needs*👇
 
+`.tsx-based:`
+- [React_Task_board](https://github.com/gtretiak/React_taskBoard): React/TypeScript task board SPA with authentication and task CRUD, built during the DSR JS Bootcamp.
+
 `.py-based:`
 - [Py_contest](https://github.com/gtretiak/Py_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
 
