@@ -1,7 +1,7 @@
 # Hello, World! 👋 I'm George, a Computer Science explorer 👩‍🚀 
 ## Currently developing projects at [42 Porto](https://42porto.com).
 I've made a career switch from the legal field in 2022. I have been passionate about logic, math and computers since childhood and consistently seek personal growth. So, when I discovered programming, and have been in love with it ever since.
-Now I deepen my knowledge in technology delivering projects solving practical porblems from sorting things to rendering data on a screen.
+Now I deepen my knowledge in technology delivering projects solving practical problems from sorting things to rendering data on a screen.
 ### 🐚 Environment:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
@@ -133,7 +133,7 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 ### 📂 My repositories *+ practical use cases for real-world business needs*👇
 
 `.tsx-based:`
-- [React_Task_board](https://github.com/gtretiak/React_taskBoard): React/TypeScript task board SPA with authentication and task CRUD, built during the DSR JS Bootcamp.
+- [React_Task_board](https://github.com/gtretiak/React_taskBoard): React/Type Script task board SPA with authentication and task CRUD, built during the DSR JS Bootcamp.
 
 `.py-based:`
 - [Py_contest](https://github.com/gtretiak/Py_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
@@ -143,8 +143,8 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 
 `.cpp-based:`
 - [Cpp modules](https://github.com/gtretiak/WIP_CPP_Modules): Programs covering OOP, polymorphism, overloading, abstract interfaces, inheritance, virtual dispatch, exceptions
-- [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
-- [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
+- [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems
+- [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems
 
 `.c-based:`
 - [C_Life + BSQ](https://github.com/gtretiak/C_Life-BSQ): Conway's Game of Life with dual-buffer simulation and pen-command input parsing & largest obstacle-free square finder using 2D DP.
@@ -152,9 +152,9 @@ Now I deepen my knowledge in technology delivering projects solving practical po
 - [C_Shell_related_utils](https://github.com/gtretiak/C_Shell_related_utils): Unix-like microshells (sandboxed testing, expression parser/evaluator, and json interpreter + pipes, signals) 
 - [C_Philosophers](https://github.com/gtretiak/C_Philosophers): Simulating the [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes to prevent deadlock and starvation.
 - [C_Minishell](https://github.com/gtretiak/C_Minishell/tree/main) **[🤝 Team project]:** Custom implementation of a basic shell, similar to bash, but with a reduced feature set
-- [C_hackerrank_contest](https://github.com/gtretiak/C_hackerrank_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
-- [C_code_forces_contest](https://github.com/gtretiak/C_code_forces): Set of programs solving various real-world problems (with practical use-cases examples!)
-- [C_leetcode_contest](https://github.com/gtretiak/C_leetcode_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
+- [C_hackerrank_contest](https://github.com/gtretiak/C_hackerrank_contest): Set of programs solving various real-world problems 
+- [C_code_forces_contest](https://github.com/gtretiak/C_code_forces): Set of programs solving various real-world problems
+- [C_leetcode_contest](https://github.com/gtretiak/C_leetcode_contest): Set of programs solving various real-world problems
 - [C_Pipex](https://github.com/gtretiak/C_Pipex): Unix piping behavior with process control and file descriptor manipulation
 - [C_Processes_practice](https://github.com/gtretiak/C_Processes): Unix-process-related exercises to understand processes, pipes, etc.
 - [C_Push_swap](https://github.com/gtretiak/C_Push_swap): Optimized sorting algorithm using stacks
