@@ -36,9 +36,9 @@ I do care about things that have a practical purpose and a positive impact, and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 
-### ✅ Concepts I've learned:
+### ✅ Concepts I've learned (click on each to expand):
 <details>
-  <summary>📦 Basics (click to expand)</summary>
+  <summary>📦 Basics</summary>
   
 - Arrays and Pointers
 - Structures and Linked Lists
@@ -55,7 +55,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 - Static Storage Duration and Linkage
 </details>
 <details>
-  <summary>🧩 Algorithms & Problem Solving (click to expand)</summary>
+  <summary>🧩 Algorithms & Problem Solving</summary>
   
 - Dynamic Programming
 - Geometric Algorithms
@@ -69,7 +69,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 - JSON serialization and deserialization
 </details>
 <details>
-  <summary>👨‍👦 Object-Oriented Programming (click to expand)</summary>
+  <summary>👨‍👦 Object-Oriented Programming</summary>
   
 - Orthodox Canonical Form (Rule of Three)
 - C++ fundamentals, Inheritance, Polymorphism, Encapsulation
@@ -84,7 +84,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 - Exception Handling in C++, Exception Safety and RAII
 </details>
 <details>
-  <summary>⚙️ System (click to expand)</summary>
+  <summary>⚙️ System</summary>
   
 - File Descriptors (FD), Bits, Memory Management, Processes, Execution, Pipes and Redirection
 - Unix Signals and Signal Handling
@@ -97,7 +97,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 - Heap vs Stack Object Lifetime
 </details>
 <details>
-  <summary>🌍 Networking (click to expand)</summary>
+  <summary>🌍 Networking</summary>
   
 - TCP/IP, MAC, Routing
 - Subnetting and calculating usable IPs, host ranges, and subnet counts by converting between CIDR and decimal notation, using subnet masks and IP octets
@@ -107,7 +107,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 - Fiber vs Ethernet cables, and the beauty of PoE
 </details>
 <details>
-  <summary>🧵 Concurrent Programming (click to expand)</summary>
+  <summary>🧵 Concurrent Programming</summary>
 
 - POSIX Threads (pthreads): creation, joining, and detachment
 - Mutex synchronization and critical sections
@@ -118,7 +118,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 - Resource sharing and contention handling
 </details>
 <details>
-  <summary>🖥️ Graphics (click to expand)</summary>
+  <summary>🖥️ Graphics</summary>
   
 - [MinilibX](https://harm-smits.github.io/42docs/libs/minilibx/events.html), X11, RGB
 - Custom terminal interface rendering
@@ -132,7 +132,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 - Evaluation metrics: AUC, LIFT, RESPONSE
 </details>
 <details>
-  <summary>⚛️ Frontend Development & React (click to expand)</summary>
+  <summary>⚛️ Frontend Development & React</summary>
   
 - Component-based architecture and composition
 - React Hooks (useState, useEffect, custom hooks)
