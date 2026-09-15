@@ -1,7 +1,7 @@
 # Hello, World! 👋 I'm George, a Computer Science explorer 👩‍🚀 
 ## Currently developing projects at [42 Porto](https://42porto.com).
-I've made a career switch from the legal field in 2022. I have been passionate about logic, math and computers since childhood and consistently seek personal growth. So, when I discovered programming, and have been in love with it ever since.
-Now I deepen my knowledge in technology delivering projects solving practical problems from sorting things to rendering data on a screen.
+I tend to ask "how" and "why" until I understand something deeply instead of just blindly using "black boxes". My background in law and business shaped the way I approach code - I think about the logic, the risks, the users, and the people who pay for all of that, asking the questions: Does this solve an actual problem? Does it create value? Does it make someone’s life or work better?
+I do care about things that have a practical purpose and a positive impact, and I’d like to build something meaningful.
 ### 🐚 Environment:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
