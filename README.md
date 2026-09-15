@@ -218,9 +218,9 @@ I do care about things that have a practical purpose and a positive impact, and 
 ### 💬 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4). 👈 *Follow my daily achievements, challenges, and insights while coding.*
 
 ### 📗 My bootcamps and hackathons:
-- [DSR JS Bootcamp - Sep 2026](https://certificates.dsr-corporation.com/courseCertificates/6aa00c97e5c84a0379f89e62)
-- [Fidelidade Hackathon - May 2025](#) - Introduced to predictive analytics for cross-sell, learning data preprocessing, and ML evaluation metrics (AUC, LIFT, RESPONSE)
-- [True Tech Hackathon - Apr 2025](https://truetecharena.ru/contests/true-tech-hack2025) - Explored LLM prompting techniques through JSON schema generation project, gaining experience with AI-assistant integration
+- [DSR JS Bootcamp - Sep 2026](https://certificates.dsr-corporation.com/courseCertificates/6aa00c97e5c84a0379f89e62) - Built with React and TypeScript a task board SPA integrated with provided Task Board Backend API.
+- [Fidelidade Hackathon - May 2025](#) - Introduced to predictive analytics for cross-sell, learning data preprocessing, and ML evaluation metrics (AUC, LIFT, RESPONSE).
+- [True Tech Hackathon - Apr 2025](https://truetecharena.ru/contests/true-tech-hack2025) - Explored LLM prompting techniques through JSON schema generation project, gaining experience with AI-assistant integration.
 - [ICP AI Agents Hackathon - Mar 2025](https://taikai.network/en/icp-eu-alliance/hackathons/ICP-ai-agents-hackathon/overview) - Gained exposure to Web3 and ICP via Recorss.ai, learning decentralized app principles and domain management concepts.
 
 ### 🧩 Coding Platforms profiles: 
