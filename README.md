@@ -93,12 +93,19 @@ I do care about things that have a practical purpose and a positive impact, and 
 - Shell Scripting Logic in C
 - Process status analysis (WIFEXITED, WIFSIGNALED, WTERMSIG)
 - Timeout implementation using alarm() signals
+- Signal management for network servers (SIGPIPE mitigation, SIGCHLD zombie prevention)
 - Process isolation and sandboxing techniques
+- Non-blocking I/O multiplexing and file descriptor tracking (fcntl, poll)
+- CGI process architecture and lifecycle management (pipe, fork, dup2, execve, waitpid)
 - Heap vs Stack Object Lifetime
 </details>
 <details>
   <summary>🌍 Networking</summary>
-  
+
+- Socket lifecycle management (socket, bind, listen, accept, setsockopt)
+- HTTP/1.1 protocol parsing (request line, multi-line headers, longest-prefix routing)
+- Stream-based data handling (partial reads/writes, buffer accumulation over iterations)
+- Chunked transfer encoding and request de-chunking pipelines
 - TCP/IP, MAC, Routing
 - Subnetting and calculating usable IPs, host ranges, and subnet counts by converting between CIDR and decimal notation, using subnet masks and IP octets
 - data → segment → packet → frame; encapsulation to decapsulation
