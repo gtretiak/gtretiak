@@ -151,25 +151,25 @@ I do care about things that have a practical purpose and a positive impact, and 
 ### 📂 My repositories *+ practical use cases for real-world business needs* (click on each to expand) 👇
 
 <details>
-  <summary>`.tsx-based:`</summary>
+  <summary>.tsx-based</summary>
 
 - [React_Task_board](https://github.com/gtretiak/React_taskBoard): React/TypeScript task board SPA with authentication and task CRUD, built during the DSR JS Bootcamp.
 </details>
 
 <details>
-  <summary>`.py-based:`</summary>
+  <summary>.py-based</summary>
 
 - [Py_contest](https://github.com/gtretiak/Py_contest): Set of programs solving various real-world problems
 </details>
 
 <details>
-  <summary>`.java-based:`</summary>
+  <summary>.java-based</summary>
 
 - [Java_Caesar_Cipher_+_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console app for text encryption/decryption & mathematical expression evaluation.
 </details>
 
 <details>
-  <summary>`.cpp-based:`</summary>
+  <summary>.cpp-based</summary>
 
 - [Cpp modules](https://github.com/gtretiak/WIP_CPP_Modules): Programs covering OOP, polymorphism, overloading, abstract interfaces, inheritance, virtual dispatch, exceptions
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems
@@ -178,7 +178,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 </details>
 
 <details>
-  <summary>`.c-based:`</summary>
+  <summary>.c-based</summary>
 
 - [C_Life + BSQ](https://github.com/gtretiak/C_Life-BSQ): Conway's Game of Life with dual-buffer simulation and pen-command input parsing & largest obstacle-free square finder using 2D DP.
 - [C_Cub3D](https://github.com/gtretiak/C_Cub3D) **[🤝 Team project]:** 3D FPS maze renderer using raycasting techniques, inspired by Wolfenstein 3D.
@@ -202,13 +202,13 @@ I do care about things that have a practical purpose and a positive impact, and 
 </details>
 
 <details>
-  <summary>`.Linux command-line-based:`</summary>
+  <summary>Linux command-line-based</summary>
 
 - [Bandit](https://github.com/gtretiak/Overthewire_wargames/tree/main): Bandit - Linux basics, command line, and fundamental security concepts
 </details>
 
 <details>
-  <summary>`.sh-based:`</summary>
+  <summary>.sh-based</summary>
 
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduction to core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
