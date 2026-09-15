@@ -154,7 +154,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 - [React_Task_board](https://github.com/gtretiak/React_taskBoard): React/TypeScript task board SPA with authentication and task CRUD, built during the DSR JS Bootcamp.
 
 `.py-based:`
-- [Py_contest](https://github.com/gtretiak/Py_contest): Set of programs solving various real-world problems (with practical use-cases examples!)
+- [Py_contest](https://github.com/gtretiak/Py_contest): Set of programs solving various real-world problems
 
 `.java-based:`
 - [Java_Caesar_Cipher_+_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console app for text encryption/decryption & mathematical expression evaluation.
@@ -192,6 +192,13 @@ I do care about things that have a practical purpose and a positive impact, and 
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduction to core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
 
 ### 💬 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4). 👈 *Follow my daily achievements, challenges, and insights while coding.*
+
+### 📗 My bootcamps and hackathons:
+💡[DSR JS Bootcamp - Sep 2026](https://certificates.dsr-corporation.com/courseCertificates/6aa00c97e5c84a0379f89e62)
+💡[Fidelidade Hackathon - May 2025](#)
+💡[True Tech Hackathon - Apr 2025)(https://truetecharena.ru/contests/true-tech-hack2025) 
+💡[ICP AI Agents Hackathon - Mar 2025](https://taikai.network/en/icp-eu-alliance/hackathons/ICP-ai-agents-hackathon/overview)
+
 ### 🧩 Coding Platforms profiles: 
 💡[Leetcode](https://leetcode.com/u/gtretiak/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
 ### Languages I speak:
