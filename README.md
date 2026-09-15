@@ -171,6 +171,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 <details>
   <summary>.cpp-based</summary>
 
+- [Cpp_Webserver](https://github.com/gtretiak/Cpp_Webserver): Web server covering configuration file implementation, HTTP request parsing, HTTP response creation, file uploading and CGI support
 - [Cpp modules](https://github.com/gtretiak/WIP_CPP_Modules): Programs covering OOP, polymorphism, overloading, abstract interfaces, inheritance, virtual dispatch, exceptions
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems
 - [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems
@@ -218,9 +219,9 @@ I do care about things that have a practical purpose and a positive impact, and 
 
 ### 📗 My bootcamps and hackathons:
 - [DSR JS Bootcamp - Sep 2026](https://certificates.dsr-corporation.com/courseCertificates/6aa00c97e5c84a0379f89e62)
-- [Fidelidade Hackathon - May 2025](#)
-- [True Tech Hackathon - Apr 2025](https://truetecharena.ru/contests/true-tech-hack2025)
-- [ICP AI Agents Hackathon - Mar 2025](https://taikai.network/en/icp-eu-alliance/hackathons/ICP-ai-agents-hackathon/overview)
+- [Fidelidade Hackathon - May 2025](#) - Introduced to predictive analytics for cross-sell, learning data preprocessing, and ML evaluation metrics (AUC, LIFT, RESPONSE)
+- [True Tech Hackathon - Apr 2025](https://truetecharena.ru/contests/true-tech-hack2025) - Explored LLM prompting techniques through JSON schema generation project, gaining experience with AI-assistant integration
+- [ICP AI Agents Hackathon - Mar 2025](https://taikai.network/en/icp-eu-alliance/hackathons/ICP-ai-agents-hackathon/overview) - Gained exposure to Web3 and ICP via Recorss.ai, learning decentralized app principles and domain management concepts.
 
 ### 🧩 Coding Platforms profiles: 
 💡[Leetcode](https://leetcode.com/u/gtretiak/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
