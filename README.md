@@ -171,7 +171,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 <details>
   <summary>.cpp-based</summary>
 
-- [Cpp_Webserver](https://github.com/gtretiak/Cpp_Webserver): Web server covering configuration file implementation, HTTP request parsing/response creation, file uploading + CGI support
+- [Cpp_Webserver](https://github.com/gtretiak/Cpp_Webserver): Web server covering configuration file design, HTTP request parsing/response creation, file uploading + CGI support
 - [Cpp modules](https://github.com/gtretiak/WIP_CPP_Modules): Programs covering OOP, polymorphism, overloading, abstract interfaces, inheritance, virtual dispatch, exceptions
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems
 - [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems
