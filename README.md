@@ -126,7 +126,7 @@ I do care about things that have a practical purpose and a positive impact, and 
 - Console-based user interface design
 </details>
 <details>
-  <summary>🤖 Machine Learning & Predictive Analytics (click to expand)</summary>
+  <summary>🤖 Machine Learning & Predictive Analytics</summary>
   
 - Data preprocessing
 - Evaluation metrics: AUC, LIFT, RESPONSE
