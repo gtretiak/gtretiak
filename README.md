@@ -3,17 +3,17 @@
 I tend to ask "how" and "why" until I understand something deeply instead of just blindly using "black boxes". My background in law and business shaped the way I approach code - I think about the logic, the risks, the users, and the people who pay for all of that, asking the questions: Does this solve an actual problem? Does it create value? Does it make someone’s life or work better?
 I do care about things that have a practical purpose and a positive impact, and I’d like to build something meaningful.
 ### 🐚 Environment:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
-![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;&nbsp; 
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)&nbsp;&nbsp;&nbsp;&nbsp;
+![Zsh](https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ### 🛠️ Tools:
-[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim-adventures.com/)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-003366?style=for-the-badge&logo=cmake&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-FF6F00?style=for-the-badge&logo=gnu&logoColor=white)
+[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim-adventures.com/)&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Makefile](https://img.shields.io/badge/Makefile-003366?style=for-the-badge&logo=cmake&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![GDB](https://img.shields.io/badge/GDB-FF6F00?style=for-the-badge&logo=gnu&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Valgrind](https://img.shields.io/badge/Valgrind-0077CC?style=for-the-badge&logo=valgrind&logoColor=white)
 <!-- ### 🔮 AI assistants I have used so far to enhance the coding, testing, debugging, refactoring and learning process:
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logoColor=white)
@@ -22,17 +22,17 @@ I do care about things that have a practical purpose and a positive impact, and 
 ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)-->
 ### 🗣️💻 Languages:
 #### Main Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 #### Basic Knowledge:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
 
-![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)&nbsp;&nbsp;&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 
@@ -148,23 +148,38 @@ I do care about things that have a practical purpose and a positive impact, and 
 - ESLint/Prettier setup for React + TypeScript projects
 </details>
 
-### 📂 My repositories *+ practical use cases for real-world business needs*👇
+### 📂 My repositories *+ practical use cases for real-world business needs* (click on each to expand) 👇
 
-`.tsx-based:`
+<details>
+  <summary>`.tsx-based:`</summary>
+
 - [React_Task_board](https://github.com/gtretiak/React_taskBoard): React/TypeScript task board SPA with authentication and task CRUD, built during the DSR JS Bootcamp.
+</details>
 
-`.py-based:`
+<details>
+  <summary>`.py-based:`</summary>
+
 - [Py_contest](https://github.com/gtretiak/Py_contest): Set of programs solving various real-world problems
+</details>
 
-`.java-based:`
+<details>
+  <summary>`.java-based:`</summary>
+
 - [Java_Caesar_Cipher_+_Expression_Evaluator](https://github.com/gtretiak/Java_Caesar_Cipher_-_Arithmetic_Expression_Evaluator): A console app for text encryption/decryption & mathematical expression evaluation.
+</details>
 
-`.cpp-based:`
+<details>
+  <summary>`.cpp-based:`</summary>
+
 - [Cpp modules](https://github.com/gtretiak/WIP_CPP_Modules): Programs covering OOP, polymorphism, overloading, abstract interfaces, inheritance, virtual dispatch, exceptions
 - [Cpp_t_contest](https://github.com/gtretiak/Cpp_t_contest): Set of programs solving various real-world problems
 - [Cpp_hackerrank_contest](https://github.com/gtretiak/Cpp_hackerrank_contest): Set of programs solving various real-world problems
 
-`.c-based:`
+</details>
+
+<details>
+  <summary>`.c-based:`</summary>
+
 - [C_Life + BSQ](https://github.com/gtretiak/C_Life-BSQ): Conway's Game of Life with dual-buffer simulation and pen-command input parsing & largest obstacle-free square finder using 2D DP.
 - [C_Cub3D](https://github.com/gtretiak/C_Cub3D) **[🤝 Team project]:** 3D FPS maze renderer using raycasting techniques, inspired by Wolfenstein 3D.
 - [C_Shell_related_utils](https://github.com/gtretiak/C_Shell_related_utils): Unix-like microshells (sandboxed testing, expression parser/evaluator, and json interpreter + pipes, signals) 
@@ -184,12 +199,20 @@ I do care about things that have a practical purpose and a positive impact, and 
 - [C_Rush00-ASCII Rectangle Generator](https://github.com/gtretiak/C_Rush_00_Rectangle_Generator) **[🤝 Team project]:** ASCII-art rectangle generation based on provided dimensions
 - [C_Intro](https://github.com/gtretiak/C_Introduction): Very first approaches to C
   
-`.Linux command-line-based:`
-- [Bandit](https://github.com/gtretiak/Overthewire_wargames/tree/main): Bandit - Linux basics, command line, and fundamental security concepts
+</details>
 
-`.sh-based:`
+<details>
+  <summary>`.Linux command-line-based:`</summary>
+
+- [Bandit](https://github.com/gtretiak/Overthewire_wargames/tree/main): Bandit - Linux basics, command line, and fundamental security concepts
+</details>
+
+<details>
+  <summary>`.sh-based:`</summary>
+
 - [Shell01](https://github.com/gtretiak/Shell_01): Advanced command-line exercises in data extraction, file searching, directory counting, and special character handling
 - [Shell00](https://github.com/gtretiak/Shell_00): Introduction to core Unix/Linux shell commands for navigation, file manipulation, permission handling, and Git basics
+</details>
 
 ### 💬 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4). 👈 *Follow my daily achievements, challenges, and insights while coding.*
 
@@ -202,9 +225,12 @@ I do care about things that have a practical purpose and a positive impact, and 
 ### 🧩 Coding Platforms profiles: 
 💡[Leetcode](https://leetcode.com/u/gtretiak/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
 ### Languages I speak:
-![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)
-![Russian](https://img.shields.io/badge/Русский-D30027?style=for-the-badge&logoColor=white)
+![English](https://img.shields.io/badge/English-0052A5?style=for-the-badge&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Russian](https://img.shields.io/badge/Русский-D30027?style=for-the-badge&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Portuguese](https://img.shields.io/badge/Português-046A38?style=for-the-badge&logoColor=white)
 ### How to reach me out 📫 📲 
-[![Curriculum Vitae](https://img.shields.io/badge/Curriculum-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white)](https://drive.google.com/file/d/1fQfjpWaGrkWGUaS8oGzCrezVJ7D8vJKe/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgii-tretiakov) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=351921754132) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jan_buran_?igshid=ZDc4ODBmNjlmNQ==) [![george.developer.work@gmail.com](https://img.shields.io/badge/george.developer.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:george.developer.work@gmail.com)
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white)](https://drive.google.com/file/d/1fQfjpWaGrkWGUaS8oGzCrezVJ7D8vJKe/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgii-tretiakov)&nbsp;&nbsp;&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=351921754132)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jan_buran_?igshid=ZDc4ODBmNjlmNQ==)&nbsp;&nbsp;&nbsp;&nbsp;
+[![george.developer.work@gmail.com](https://img.shields.io/badge/george.developer.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:george.developer.work@gmail.com)
