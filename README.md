@@ -194,10 +194,10 @@ I do care about things that have a practical purpose and a positive impact, and 
 ### 💬 [Daily Dev Logs on Notion](https://www.notion.so/Daily-brief-logs-1fa5a7844fe580d4ae6bc029426f0b0b?pvs=4). 👈 *Follow my daily achievements, challenges, and insights while coding.*
 
 ### 📗 My bootcamps and hackathons:
-💡[DSR JS Bootcamp - Sep 2026](https://certificates.dsr-corporation.com/courseCertificates/6aa00c97e5c84a0379f89e62)
-💡[Fidelidade Hackathon - May 2025](#)
-💡[True Tech Hackathon - Apr 2025)(https://truetecharena.ru/contests/true-tech-hack2025) 
-💡[ICP AI Agents Hackathon - Mar 2025](https://taikai.network/en/icp-eu-alliance/hackathons/ICP-ai-agents-hackathon/overview)
+- [DSR JS Bootcamp - Sep 2026](https://certificates.dsr-corporation.com/courseCertificates/6aa00c97e5c84a0379f89e62)
+- [Fidelidade Hackathon - May 2025](#)
+- [True Tech Hackathon - Apr 2025](https://truetecharena.ru/contests/true-tech-hack2025)
+- [ICP AI Agents Hackathon - Mar 2025](https://taikai.network/en/icp-eu-alliance/hackathons/ICP-ai-agents-hackathon/overview)
 
 ### 🧩 Coding Platforms profiles: 
 💡[Leetcode](https://leetcode.com/u/gtretiak/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Hackerrank](https://www.hackerrank.com/profile/george22021988)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚔️[Codeforces](https://codeforces.com/profile/gtretiak)
